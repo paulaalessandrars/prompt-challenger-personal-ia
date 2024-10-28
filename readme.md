@@ -122,5 +122,8 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ## 🎯 Prompt de Resposta Proposto
 
-- [Resposta ChatGPT](answers/answer_gpt.md)
-
+Veja como ficou 👇 
+- [Prompt](prompt.md) (Aprimorado com mais um tipo de treino e niveis de dificuldade)
+- [Resposta do ChatGPT](answers/answer_gpt.md)
+- [Resposta do Copilot](answers/answer_copilot.md)
+- [Resposta do Meta AI](answers/answer_metaAI.md)
